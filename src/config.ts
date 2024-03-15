@@ -19,12 +19,6 @@ export const defaultGuardGroup =
 // "DAA8yRLu7acVs3kxaTyCjoEjNWGinLaCKVhDY29ASNua"
 
 export const whitelistedWallets = [
-  "9qcF1iLiVFaDr9RnvAhpZJ9WVtkfsCdxXjwfEcNxNqLr",
-  "N6RkXyFPGCf9kkfMaSYpnFXHBoUNYTzbhZxisom7Aa3",
-  "FnuHCzdTSDfujrFa2W5DurP8iTYBpovifeA8uttk56T",
-  "3rcvyfGKsT72BZ1kDFVgcSDDyhWmj13FjPPa687ww97X",
-  "DR2jouEGRXAUFT7DEnMaz6VixLmpTYV1bAE8LZVMbWXY",
-  "3priwFVhMqkVt8mfzVAkUPJUqWGsUqb6aknMjxMnjtVE"
 ];
 
 export const collectionImageURL =
